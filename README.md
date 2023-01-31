@@ -1,0 +1,1 @@
+This project is intended to demonstrtate the html skills I've learned thus far in odin. It is be a basic recipe website. 
